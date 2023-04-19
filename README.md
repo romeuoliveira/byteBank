@@ -8,6 +8,11 @@ JavaScript: trabalhando com threads para requisições simultâneas
 
 
 
+Trabalhe com a plataforma Bytebank, em que faremos parte da equipe que desenvolverá a página de cotações de moedas. 
+Faça a cotação de moeda em tempo real do dólar, iene e euro. Com gráficos que mostram essas alterações e variações 
+de cotação de moedas como 1 dólar, 10 dólares, 100 dólares .
+
+
 - Construa gráficos com a biblioteca Chart.js
 - Saiba o que são threads
 - Desenvolva um projeto com multithread
